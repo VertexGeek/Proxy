@@ -5,7 +5,7 @@ clash节点、v2ray节点、clash订阅链接、v2ray 订阅连接，clash verge
 # v2rayn 下载连接：https://github.com/2dust/v2rayN
 
 # 订阅链接1：https://portal.shadowsocks.au/aff.php?aff=69318
-![image](https://github.com/AzureforAI/clash-v2ray/blob/main/image/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20231212123941.png)
+![image](image/微信图片_20231213145838.png)
 多种订阅:
 ![image](https://github.com/AzureforAI/clash-v2ray/blob/main/image/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20231212124050.png)
 # 订阅链接2： https://portal.pass-rabbit.com/#/register?code=Owxhm9Ql
