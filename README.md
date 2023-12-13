@@ -11,4 +11,4 @@ clash节点、v2ray节点、clash订阅链接、v2ray 订阅连接，clash verge
 # 订阅链接2： https://portal.pass-rabbit.com/#/register?code=Owxhm9Ql
 ![image](https://github.com/AzureforAI/clash-v2ray/blob/main/image/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20231212124154.png)
 # 订阅链接3: https://www.bygcloud.com/#/register?code=76cgWasv
-
+# 订阅链接4：https://ikuajing01.com/auth/register?code=nva6
