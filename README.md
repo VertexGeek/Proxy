@@ -5,7 +5,7 @@ clash节点、v2ray节点、clash订阅链接、v2ray 订阅连接，clash verge
 # v2rayn 下载连接：https://github.com/2dust/v2rayN
 
 # 订阅链接：https://www.eyujichang.com/
-![image]()
+![image](https://github.com/VertexGeek/Proxy/blob/main/image2/capture_20240507214935219.bmp)
 # 订阅链接2： https://portal.pass-rabbit.com/#/register?code=Owxhm9Ql
 ![image](image/微信图片_20231213150041.png)
 # 订阅链接3: https://www.bygcloud.com/#/register?code=76cgWasv
