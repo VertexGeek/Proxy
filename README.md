@@ -14,5 +14,5 @@ clash节点、v2ray节点、clash订阅链接、v2ray 订阅连接，clash verge
 ![image](image2/微信图片_20231213151123.png)
 
 
-# 线路中转地址：https://gorelay.net/#register/DURJKCTIPO
+# 线路中转地址：[https://gorelay.net/#register/DURJKCTIPO](https://gorelay.net/#register/NUTAXSDXEB)
 ![image](image/capture_20240414142911360.bmp)
