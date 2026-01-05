@@ -4,10 +4,10 @@ clash节点、v2ray节点、clash订阅链接、v2ray 订阅连接，clash verge
 # clash verge下载连接：https://github.com/zzzgydi/clash-verge
 # v2rayn 下载连接：https://github.com/2dust/v2rayN
 
-# 订阅链接1(自用机场，强烈推荐！): https://www.bygcloud.com/#/register?code=76cgWasv
-![image](image2/微信图片_20231213151214.png)
-# 订阅链接2：[https://ikuajing01.com/auth/register?code=nva6](https://wbe-agent.kuajing.uk/auth/register?code=RSl9)https://wbe-agent.kuajing.uk/auth/register?code=RSl9
+# 订阅链接1(自用机场，强烈推荐！)：[https://ikuajing01.com/auth/register?code=nva6](https://wbe-agent.kuajing.uk/auth/register?code=RSl9)https://wbe-agent.kuajing.uk/auth/register?code=RSl9
 ![image](image2/微信图片_20231213151123.png)
+# 订阅链接2（备用机场）: https://www.bygcloud.com/#/register?code=76cgWasv
+![image](image2/微信图片_20231213151214.png)
 
 
 # 线路中转地址：[https://gorelay.net/#register/DURJKCTIPO](https://gorelay.net/#register/NUTAXSDXEB)
